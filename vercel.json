@@ -13,8 +13,7 @@
       "use": "@vercel/static-build",
       "config": {
         "distDir": "client/dist"
-      },
-      "buildCommand": "cd client && npm run build"
+      }
     }
   ],
   "routes": [
